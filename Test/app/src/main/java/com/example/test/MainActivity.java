@@ -8,6 +8,7 @@ public class MainActivity extends AppCompatActivity {
 
     private char[][] chars={{1,1,1,1,0},{1,1,0,1,0},{1,1,0,0,0},{0,0,0,0,0}};
 
+    //测试
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
